@@ -85,3 +85,6 @@ MIT License
 ## 🙋‍♂️ Author
 
 Created by [Your Name] for the Caprae Capital Pre-Internship AI Challenge.
+
+[Watch the project walkthrough video](https://www.loom.com/share/ab564a999e9f488ca65c94a81f7f1766?sid=97d84f7a-2e1a-4860-bff8-b870323bef27)
+
